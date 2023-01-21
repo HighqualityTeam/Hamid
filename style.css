@@ -28,10 +28,11 @@ body{
   color:#444;
   margin:2rem 0;
   padding-top: 6rem;
-  text-decoration: underline;
-  text-decoration-style: solid;
-  text-decoration-color: var(--orange);
-  text-underline-offset:-1.4rem;
+/*   text-decoration: underline; */
+/*   text-decoration-style: solid; */
+/*   text-decoration-color: var(--orange); */
+/*   text-underline-offset:-1.4rem; */
+  text-decoration : none;
 }
 
 .header{
